@@ -6,10 +6,10 @@
 - 🎂 17 anos
 - 🎓 Estudante de Técnico em Informática no SENAI Camaçari.
 
-### 💻 Um pouco sobre mim
+###  Um pouco sobre mim
 Atualmente estou aprendendo mais sobre tecnologia e programação. Gosto de descobrir coisas novas, aprender na prática e desenvolver minhas habilidades.
 
-### 🌱 Atualmente aprendendo
+###  Aprendendo
 - Informática
 - Lógica de programação
 - Desenvolvimento e tecnologia
