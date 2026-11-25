@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**analnascimento8-collab/analnascimento8-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oii! Eu sou Ana Luíza Oliveira do Nascimento! 👋💗
 
-Here are some ideas to get you started:
+### 🎀 Sobre mim
+- 📍 Camaçari - Bahia, Brasil 🇧🇷
+- 🎂 17 anos
+- 🎓 Estudante de Técnico em Informática no SENAI Camaçari.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Um pouco sobre mim
+Atualmente estou aprendendo mais sobre tecnologia e programação. Gosto de descobrir coisas novas, aprender na prática e desenvolver minhas habilidades.
+
+### 🌱 Atualmente aprendendo
+- Informática
+- Lógica de programação
+- Desenvolvimento e tecnologia
+
+### ✨ Meus objetivos
+- Aprender novas linguagens.
+- Criar meus próprios projetos.
+- Crescer profissionalmente na área de TI.
+
+### 💌 Obrigada pela visita!
+Esse é um espaço onde vou compartilhar meus aprendizados e minha evolução na tecnologia. 💗
+
+---
+
