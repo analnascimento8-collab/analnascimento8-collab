@@ -10,7 +10,7 @@
 Atualmente estou aprendendo mais sobre tecnologia e programação. Gosto de descobrir coisas novas, aprender na prática e desenvolver minhas habilidades.
 
 ###  Aprendendo
-- Informática
+- Informática, CSS e HtML.
 - Lógica de programação
 - Desenvolvimento e tecnologia
 
